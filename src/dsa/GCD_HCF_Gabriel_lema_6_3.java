@@ -14,7 +14,7 @@ public class GCD_HCF_Gabriel_lema_6_3 {
 				b=b%a;
 			}
 		}
-		if(a!=0) {  //print the non zero whihc of the one that ia a or b.
+		if(a!=0) {  //print the non zero which of the one that ia a or b.
 			System.out.println(a);
 		} else {
 			System.out.println(b);
