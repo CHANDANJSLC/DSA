@@ -33,7 +33,7 @@ public class LCM_7_2 {
 		
 		System.out.println(euclidGcd(a, b)); //GCD
 		System.out.println(findLCM(a,b));  //LCM
-
+		scan.close();
 }
 }
 
