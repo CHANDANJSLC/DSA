@@ -20,7 +20,6 @@ public class GCD_HCF_Gabriel_lema_6_3 {
 			System.out.println(b);
 		}
 		
-		scan.close();
 	}
 
 }
