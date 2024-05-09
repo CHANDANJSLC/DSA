@@ -18,6 +18,7 @@ public class GCD_HCF_Euclid_6_2 {
 			}
 		}
 		System.out.println(a); //print any of the one a or b.
+		scan.close();
 	}
 
 }
