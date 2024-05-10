@@ -9,7 +9,7 @@ public class Prime_number_8 {
 			return;
 			}
 			
-			for(int i=2;i<=n/2;i++) 
+			for(int i=2;i<=n/2;i++) //Math.sqrt(n):use it for lesser time complexity.
 			{
 				if(n%i==0) 
 				{
