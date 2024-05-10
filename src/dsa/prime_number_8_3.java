@@ -3,7 +3,7 @@ package dsa;
 import java.util.*;
 public class prime_number_8_3 {
 	
-	
+	//Time complexity=> O(nlog(log(n)))
 	
 	static void prime(int n) {
 		boolean[] prime = new boolean[n+1]; //Array of numbers
