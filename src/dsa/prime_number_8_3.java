@@ -30,10 +30,7 @@ public class prime_number_8_3 {
 		
 		prime(n);
 		
-		
-		
-		
-		scan.close();
+//		scan.close();
 		
 
 	}
