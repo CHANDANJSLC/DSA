@@ -8,7 +8,7 @@ public class Prime_numbers_8_1 {
 			return false;
 			}
 			
-			for(int i=2;i<Math.sqrt(n);i++)  //Math.sqrt(n):use it for lesser time complexity.
+			for(int i=2;i<Math.sqrt(n) ;i++)  //Math.sqrt(n):use it for lesser time complexity.
 			{
 				if(n%i==0) 
 				{
