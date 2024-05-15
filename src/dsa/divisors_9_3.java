@@ -5,6 +5,7 @@ public class divisors_9_3 {
 	public static void main(String args[]) {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();  //40
+		scan.close();
 		int i=0;
 		for(i=1; i<=Math.sqrt(n) ;i++)  
 		{	
